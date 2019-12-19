@@ -1,0 +1,3 @@
+[submodule "MasterModulerSolution/sub-module-a"]
+	path = MasterModulerSolution/sub-module-a
+	url = https://github.com/scosmaa/sub-module-a.git

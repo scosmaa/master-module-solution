@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace MasterModulerSolution
 {
-    class Program
+    class Common
     {
-        static void Main(string[] args)
+        public static string Test()
         {
-            Console.WriteLine(Common.Test());
-            Console.ReadKey();
+            return "Master Module class";
         }
     }
 }
